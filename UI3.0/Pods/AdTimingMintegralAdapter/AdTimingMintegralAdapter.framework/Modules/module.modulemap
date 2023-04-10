@@ -1,0 +1,6 @@
+framework module AdTimingMintegralAdapter {
+  umbrella header "AdTimingMintegralAdapter.h"
+
+  export *
+  module * { export * }
+}

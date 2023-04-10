@@ -1,0 +1,6 @@
+framework module AdTimingVungleAdapter {
+  umbrella header "AdTimingVungleAdapter.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module AdTimingAppLovinAdapter {
+  umbrella header "AdTimingAppLovinAdapter.h"
+
+  export *
+  module * { export * }
+}

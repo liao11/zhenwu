@@ -1,0 +1,6 @@
+framework module AdTimingTapjoyAdapter {
+  umbrella header "AdTimingTapjoyAdapter.h"
+
+  export *
+  module * { export * }
+}

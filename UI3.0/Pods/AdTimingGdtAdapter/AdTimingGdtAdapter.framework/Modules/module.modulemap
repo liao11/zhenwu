@@ -1,0 +1,6 @@
+framework module AdTimingGdtAdapter {
+  umbrella header "AdTimingGdtAdapter.h"
+
+  export *
+  module * { export * }
+}

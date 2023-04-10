@@ -1,0 +1,6 @@
+framework module AdTimingChartboostAdapter {
+  umbrella header "AdTimingChartboostAdapter.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_JPBaoFuSDKDemo {
+  umbrella header "Pods-JPBaoFuSDKDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

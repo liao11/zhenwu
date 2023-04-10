@@ -1,0 +1,6 @@
+framework module AdTimingAdColonyAdapter {
+  umbrella header "AdTimingAdColonyAdapter.h"
+
+  export *
+  module * { export * }
+}

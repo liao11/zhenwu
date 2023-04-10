@@ -1,0 +1,6 @@
+framework module AdTimingUnityAdapter {
+  umbrella header "AdTimingUnityAdapter.h"
+
+  export *
+  module * { export * }
+}

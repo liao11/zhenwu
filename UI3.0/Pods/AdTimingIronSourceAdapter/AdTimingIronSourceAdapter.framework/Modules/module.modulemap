@@ -1,0 +1,6 @@
+framework module AdTimingIronSourceAdapter {
+  umbrella header "AdTimingIronSourceAdapter.h"
+
+  export *
+  module * { export * }
+}

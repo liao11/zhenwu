@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>em14_domain_name</key>
+	<dict>
+		<key>em14_returnupsBaseUrl</key>
+		<string>https://nap.mocgame.vn</string>
+		<key>em14_baseUrl</key>
+		<string>https://sdk2.iosgate.muugame.com</string>
+		<key>em14_backupsBaseUrl</key>
+		<string>https://upac.muugame.com</string>
+	</dict>
+	<key>em14_aes_key</key>
+	<dict>
+		<key>em14_AES128Key</key>
+		<string>keybc045c09f0181</string>
+		<key>em14_AES128iv</key>
+		<string>0b79c392be2a636b</string>
+	</dict>
+	<key>em14_url_path</key>
+	<dict>
+		<key>em14_rcpAutoLoginPath</key>
+		<string>/login/autoLogin</string>
+		<key>em14_rcpInitialPath</key>
+		<string>/main/init</string>
+		<key>em14_rcpDeviceActivePath</key>
+		<string>/main/devAct</string>
+		<key>em14_rcpNormalRegPath</key>
+		<string>/main/reg</string>
+		<key>em14_rcpNormalLoginPath</key>
+		<string>/main/zcLogin</string>
+		<key>em14_rcpQuickLoginPath</key>
+		<string>/main/ykLogin</string>
+		<key>em14_rcpUserLogoutPath</key>
+		<string>/main/yhLogout</string>
+		<key>em14_rcpUserDeletePath</key>
+		<string>/main/yhLogout</string>
+		<key>em14_rcpRefreshTokenPath</key>
+		<string>/main/refTok</string>
+		<key>em14_rcpFindAccountsPath</key>
+		<string>/main/czAccount</string>
+		<key>em14_rcpVerifyEmailPath</key>
+		<string>/main/fsCode</string>
+		<key>em14_rcpSendRegVerifyCodePath</key>
+		<string>/main/fsRegisterCode</string>
+		<key>em14_rcpModifyPasswordPath</key>
+		<string>/main/xgPasswd</string>
+		<key>em14_rcpBindVerifyCodePath</key>
+		<string>/main/bdEmail</string>
+		<key>em14_rcpBindEmailPath</key>
+		<string>/main/yzEmail</string>
+		<key>em14_rcpEnjoyGamePath</key>
+		<string>/main/jrGame</string>
+		<key>em14_rcpCommitRoleLevelPath</key>
+		<string>/main/jsLevel</string>
+		<key>em14_rcpHeartbeatPath</key>
+		<string>/main/heart</string>
+		<key>em14_rcpThirdLoginPath</key>
+		<string>/main/dsfLogin</string>
+		<key>em14_rcpOrderInfoPath</key>
+		<string>/main/ddInfo</string>
+		<key>em14_rcpAppleOrderVerifyPath</key>
+		<string>/main/fuqNotify</string>
+		<key>em14_rcpVerifySignInWithAppleId</key>
+		<string>/main/pgLogin</string>
+		<key>em14_rcpGetUserInfoPath</key>
+		<string>/main/yhInfo</string>
+		<key>em14_rcpSendUpgradeVerifyCodePath</key>
+		<string>/main/fssjCode</string>
+		<key>em14_rcpAccountUpgradePath</key>
+		<string>/main/zhUpgrade</string>
+		<key>em14_rcpModifyPwdPath</key>
+		<string>/main/xgUserPassword</string>
+		<key>em14_rcpGetAllPresentInfoPath</key>
+		<string>/main/sylwInfo</string>
+		<key>em14_rcpGetPresentInfoPath</key>
+		<string>/main/hqlw</string>
+		<key>em14_rcpMyPresentInfoPath</key>
+		<string>/main/wdlwInfo</string>
+		<key>em14_rcpServiceInfoPath</key>
+		<string>/main/kfInfo</string>
+		<key>em14_rcpChongDataPath</key>
+		<string>/main/orderList</string>
+		<key>em14_rcpNewsInfoPath</key>
+		<string>/main/banner</string>
+		<key>em14_rcpFinishNewTask</key>
+		<string>/main/newbieTask</string>
+		<key>em14_rcpObtainCouponList</key>
+		<string>/main/couponList</string>
+		<key>em14_rcpSaveUserCoupon</key>
+		<string>/main/saveUserCoupon</string>
+		<key>em14_rcpTaskList</key>
+		<string>/main/taskList</string>
+		<key>em14_rcpCoinDetail</key>
+		<string>/main/coinDetail</string>
+		<key>em14_rcpObtainTelCode</key>
+		<string>/main/sendMobileCode</string>
+		<key>em14_rcpTelRegister</key>
+		<string>/main/mobileReg</string>
+		<key>em14_rcpTelLogin</key>
+		<string>/main/mobileLogin</string>
+		<key>em14_rcpUserSign</key>
+		<string>/main/signIn</string>
+		<key>em14_rcpObtainUserRole</key>
+		<string>/main/roleInfo</string>
+		<key>em14_rcpChangePresent</key>
+		<string>/main/exchangeGift</string>
+		<key>em14_rcpRegMobileCode</key>
+		<string>/main/sendRegMobileCode</string>
+		<key>em14_rcpRegBindTel</key>
+		<string>/main/bindMobile</string>
+		<key>em14_rcpMemberLk</key>
+		<string>/web/vip3</string>
+		<key>em14_rcpResetTelPwd</key>
+		<string>/main/modifyMobilePasswd</string>
+		<key>em14_rcpAccTelUpgrade</key>
+		<string>/main/accountMobileUpgrade</string>
+		<key>em14_rcpTiePresent</key>
+		<string>/main/bindMobileGift</string>
+		<key>em14_rcpGetGood</key>
+		<string>/main/pointGoodsType</string>
+		<key>em14_rcpGoodList</key>
+		<string>/main/pointGoodsList</string>
+		<key>em14_rcpDelAcc</key>
+		<string>/main/cancelAccount</string>
+		<key>em14_rcpDataup</key>
+		<string>/main/gameLog</string>
+		<key>em14_rcpMyLoginFace</key>
+		<string>/main/openLoginInterface</string>
+	</dict>
+	<key>em14_pathparams_key</key>
+	<dict>
+		<key>em14_ckeyData</key>
+		<string>data</string>
+		<key>em14_ckeyRA</key>
+		<string>ra</string>
+		<key>em14_ckeyPlatform</key>
+		<string>pf</string>
+		<key>em14_ckeyGameId</key>
+		<string>g</string>
+		<key>em14_ckeyUsername</key>
+		<string>un</string>
+		<key>em14_ckeyEamil</key>
+		<string>e</string>
+		<key>em14_ckeyDeviceNO</key>
+		<string>dn</string>
+		<key>em14_ckeyChannel</key>
+		<string>cu</string>
+		<key>em14_ckeySubChannel</key>
+		<string>sid</string>
+		<key>em14_ckeyDeviceIDFA</key>
+		<string>i</string>
+		<key>em14_ckeyDeviceType</key>
+		<string>mt</string>
+		<key>em14_ckeyDeviceNetwork</key>
+		<string>nw</string>
+		<key>em14_ckeyDeviceModelProvider</key>
+		<string>no</string>
+		<key>em14_ckeyAppVersion</key>
+		<string>gv</string>
+		<key>em14_ckeyPassword</key>
+		<string>pw</string>
+		<key>em14_ckeyTimeStamp</key>
+		<string>ts</string>
+		<key>em14_ckeySDKVersion</key>
+		<string>v</string>
+		<key>em14_ckeySign</key>
+		<string>sn</string>
+		<key>em14_ckeyUId</key>
+		<string>ui</string>
+		<key>em14_ckeyToken</key>
+		<string>t</string>
+		<key>em14_ckeyRefreshToken</key>
+		<string>at</string>
+		<key>em14_ckeyAccountCode</key>
+		<string>ac</string>
+		<key>em14_ckeyNewPwd</key>
+		<string>np</string>
+		<key>em14_ckeyReNewPwd</key>
+		<string>rnp</string>
+		<key>em14_ckeyCpServiceID</key>
+		<string>ps</string>
+		<key>em14_ckeyCpServiceName</key>
+		<string>pn</string>
+		<key>em14_ckeyCpRoleId</key>
+		<string>cr</string>
+		<key>em14_ckeyCpRoleName</key>
+		<string>rn</string>
+		<key>em14_ckeyServiceID</key>
+		<string>si</string>
+		<key>em14_ckeyCpRoleLevel</key>
+		<string>rl</string>
+		<key>em14_ckeyRoleID</key>
+		<string>ri</string>
+		<key>em14_ckeyCpOrderNum</key>
+		<string>co</string>
+		<key>em14_ckeyPaType</key>
+		<string>pt</string>
+		<key>em14_ckeyPaProductID</key>
+		<string>pi</string>
+		<key>em14_ckeyGameMoney</key>
+		<string>gm</string>
+		<key>em14_ckeyProductName</key>
+		<string>gp</string>
+		<key>em14_ckeyPaExtra</key>
+		<string>ge</string>
+		<key>em14_ckeyRealPa</key>
+		<string>pa</string>
+		<key>em14_ckeyCurrencyty</key>
+		<string>u</string>
+		<key>em14_ckeyProof</key>
+		<string>rp</string>
+		<key>em14_ckeyOrderNum</key>
+		<string>so</string>
+		<key>em14_ckeyAppleOrderNum</key>
+		<string>ao</string>
+		<key>em14_ckeySessionID</key>
+		<string>ssid</string>
+		<key>em14_ckeyThirdPlatform</key>
+		<string>tp</string>
+		<key>em14_ckeyThirdAccount</key>
+		<string>ta</string>
+		<key>em14_ckeySystemVersion</key>
+		<string>sysv</string>
+		<key>em14_ckeyAdjustDeviceID</key>
+		<string>adjustid</string>
+		<key>em14_ckeyAppleAuthorizationCode</key>
+		<string>aac</string>
+		<key>em14_ckeyAppleIdentityToken</key>
+		<string>tat</string>
+		<key>em14_ckeyPresentId</key>
+		<string>gi</string>
+		<key>em14_ckeyFlags</key>
+		<string>flag</string>
+		<key>em14_ckeyTel</key>
+		<string>m</string>
+		<key>em14_ckeyPlaform</key>
+		<string>pid</string>
+		<key>em14_ckeyListType</key>
+		<string>lt</string>
+		<key>em14_ckeyCouponId</key>
+		<string>ci</string>
+		<key>em14_ckeyTelDist</key>
+		<string>cc</string>
+		<key>em14_ckeyTelUt</key>
+		<string>ut</string>
+		<key>em14_ckeyGoodType</key>
+		<string>gt</string>
+		<key>em14_ckeyRegType</key>
+		<string>rt</string>
+		<key>em14_ckeyIsIdfa</key>
+		<string>it</string>
+	</dict>
+	<key>em14_localStr</key>
+	<dict>
+		<key>EMKey_Login_Text</key>
+		<string>Đăng nhập</string>
+		<key>EMKey_Logout_Text</key>
+		<string>Đăng xuất</string>
+		<key>EMKey_deletet_Text </key>
+		<string>Xóa tài khoản
+
+Xóa tài khoản
+</string>
+		<key>EMKey_Register_Text</key>
+		<string>Đăng ký</string>
+		<key>EMKey_ConfirmRegister_Text</key>
+		<string>Xác nhận đăng ký</string>
+		<key>EMKey_FBLogin_Text</key>
+		<string>Đăng ký with FaceBook</string>
+		<key>EMKey_Facebook_Text</key>
+		<string>Facebook</string>
+		<key>EMKey_AccountRegister_Text</key>
+		<string>Đăng ký</string>
+		<key>EMKey_AccountLogin_Text</key>
+		<string>Đăng nhập</string>
+		<key>EMKey_QuickLogin_Text</key>
+		<string>Vào Ngay</string>
+		<key>EMKey_LoginProtocol_Pre_Text</key>
+		<string>Chọn 1 trong 3 cách đăng nhập và đồng ý </string>
+		<key>EMKey_LoginProtocol_Text</key>
+		<string>&lt;Điều khoản&gt;</string>
+		<key>EMKey_OtherWays_Text</key>
+		<string>Cách khác</string>
+		<key>EMKey_RegisterProtocol_Text</key>
+		<string>Đồng ý các điều khoản sử dụng</string>
+		<key>EMKey_RegisterSuccess_Text</key>
+		<string>Đăng ký thành công </string>
+		<key>EMKey_RegisterSuccess_Pre_Tips_Text</key>
+		<string>Chúc mừng tài khoản</string>
+		<key>EMKey_RegisterSuccess_Suf_Tips_Text</key>
+		<string>Đăng ký thành công, Chúc bạn chơi game vui vẻ!</string>
+		<key>EMKey_ForgetPassword_Text</key>
+		<string>Quên mật khẩu?</string>
+		<key>EMKey_ResetPassword_Text</key>
+		<string>Làm mới mật khẩu</string>
+		<key>EMKey_ResetSuccess_Tips_Text</key>
+		<string>Làm mới mật khẩu thành công.</string>
+		<key>EMKey_ModifyPassword_Text</key>
+		<string>Đổi mật khẩu</string>
+		<key>EMKey_ModifySuccess_Tips_Text</key>
+		<string>Đổi mật khẩu thành công.</string>
+		<key>EMKey_BindEmail_Text</key>
+		<string>Email</string>
+		<key>EMKey_EmailBind_Text</key>
+		<string>Email kích hoạt</string>
+		<key>EMKey_BindSuccess_Tips_Text</key>
+		<string>Kích hoạt Email thành công.</string>
+		<key>EMKey_BindEmail_Tips_Text</key>
+		<string>Email đã kích hoạt không thể thay đổi!</string>
+		<key>EMKey_Email_Text</key>
+		<string>Email</string>
+		<key>EMKey_AccountNumber_Text</key>
+		<string>Tài khoản</string>
+		<key>EMKey_Account_Text</key>
+		<string>Tài khoản</string>
+		<key>EMKey_Account_Short_Text</key>
+		<string>TK</string>
+		<key>EMKey_Password_Text</key>
+		<string>Mật khẩu</string>
+		<key>EMKey_OldPassword_Text</key>
+		<string>Pass cũ</string>
+		<key>EMKey_NewPassword_Text</key>
+		<string>Pass mới</string>
+		<key>EMKey_ReNewPassword_Text</key>
+		<string>Nhập lại Pass</string>
+		<key>EMKey_VerifyCode_Text</key>
+		<string>Mã KH</string>
+		<key>EMKey_SendVCSuccess_Tips_Text</key>
+		<string>Mã kích hoạt đã gửi tới Email.</string>
+		<key>EMKey_CustomerService_Text</key>
+		<string>CSKH</string>
+		<key>EMKey_QuickCheckPurchase_Text</key>
+		<string>Nạp</string>
+		<key>EMKey_qiandao_Text</key>
+		<string>Điểm danh</string>
+		<key>EMKey_CustomerServiceMail_Text</key>
+		<string>Mail CSKH</string>
+		<key>EMKey_CustomerServiceContact_Text</key>
+		<string>Liên hệ CSKH</string>
+		<key>EMKey_Feedback_Text</key>
+		<string>Gửi hỗ trợ</string>
+		<key>EMKey_PresentCollection_Text</key>
+		<string>Nhận lễ bao</string>
+		<key>EMKey_AllPresent_Text</key>
+		<string>Toàn bộ lễ bao</string>
+		<key>EMKey_MyPresent_Text</key>
+		<string>Lễ bao của tôi</string>
+		<key>EMKey_PresentName_Text</key>
+		<string>Gói quà</string>
+		<key>EMKey_PresentContent_Text</key>
+		<string>Nội dung lễ bao</string>
+		<key>EMKey_ExpirationDate_Text</key>
+		<string>Thời gian hết hạn</string>
+		<key>EMKey_Deadline_Text</key>
+		<string>Thời gian nhận</string>
+		<key>EMKey_TermOfValidity_Text</key>
+		<string>Có hiệu lực</string>
+		<key>EMKey_Surplus_Text</key>
+		<string>Còn dư</string>
+		<key>EMKey_GetPresent_Text</key>
+		<string>Nhận</string>
+		<key>EMKey_HasGetPresent_Text</key>
+		<string>Đã nhận</string>
+		<key>EMKey_PresentNum_Text</key>
+		<string>Mã lễ bao</string>
+		<key>EMKey_PresentLBM_Text</key>
+		<string>PresentCode</string>
+		<key>EMKey_Longpress2Copy_Text</key>
+		<string>Nhấn để copy</string>
+		<key>EMKey_GetCondition_Text</key>
+		<string>Điều kiện nhận</string>
+		<key>EMKey_CopyPresentNumSuccess_Tips_Text</key>
+		<string>Copy mã lễ bao thành công!</string>
+		<key>EMKey_GetPresentSuccess_Pre_Tips_Text</key>
+		<string>Chúc mừng bạn đã nhận thành công </string>
+		<key>EMKey_GetPresentSuccess_Suf_Tips_Text</key>
+		<string> lễ bao, Vào game sử dụng, Vật phẩm sẽ gửi qua thư ingame, Hãy chú ý!</string>
+		<key>EMKey_GetPresentSuccess_Pre_Text</key>
+		<string>Bạn còn có thể </string>
+		<key>EMKey_GetPresentSuccess_Suf_Text</key>
+		<string> kiểm tra</string>
+		<key>EMKey_PersonCenter_Text</key>
+		<string>Cá nhân</string>
+		<key>EMKey_AccountLevel_Text</key>
+		<string>Level</string>
+		<key>EMKey_AccountIntegral_Text</key>
+		<string>Điểm</string>
+		<key>EMKey_AccountNoBind_Text</key>
+		<string>Không</string>
+		<key>EMKey_AccountUpgrade_Text</key>
+		<string>Thăng cấp tài khoản</string>
+		<key>EMKey_AccountUpgrade_Tips_Text</key>
+		<string>Sau khi thành công, Có thể sử dụng Email và pass mới để đăng nhập!</string>
+		<key>EMKey_UpgradeSuccess_Tips_Text</key>
+		<string>Chúc mừng đã thăng cấp, Bạn có thể dùng Email để lấy lại mật khẩu.</string>
+		<key>EMKey_YourMuuAccountNum_Text</key>
+		<string>Tài khoản là</string>
+		<key>EMKey_GuestAccount_Text</key>
+		<string>Tài khoản đăng nhập nhanh</string>
+		<key>EMKey_GuestAccount_Tips_Text</key>
+		<string>Người chơi thân mến, Trong trạng thái đăng nhập nhanh, không thể bảo đảm data an toàn, Hãy nhanh chóng thăng cấp tài khoản thành: Tăng cấp tài khoản nền tảng</string>
+		<key>EMKey_RefuseUpgrade_Text</key>
+		<string>Cự tuyệt</string>
+		<key>EMKey_UpdateAtOnce_Text</key>
+		<string>Nâng cấp</string>
+		<key>EMKey_SendButton_Text</key>
+		<string>Gửi mã KH</string>
+		<key>EMKey_CancelButton_Text</key>
+		<string>Hủy bỏ</string>
+		<key>EMKey_ConfirmButton_Text</key>
+		<string>Xác nhận</string>
+		<key>EMKey_CopyButton_Text</key>
+		<string>Copy</string>
+		<key>EMKey_TipsTitle_Text</key>
+		<string>Tips</string>
+		<key>EMKey_AccountNum_Placeholder_Text</key>
+		<string>Hãy nhập tài khoản</string>
+		<key>EMKey_Email_Placeholder_Text</key>
+		<string>Hãy nhập mail</string>
+		<key>EMKey_Email_Placeholder_Text1</key>
+		<string>Hãy nhập Email kích hoạt</string>
+		<key>EMKey_BindEmail_Placeholder_Text</key>
+		<string>Nhập Email cần xác nhận</string>
+		<key>EMKey_Password_Placeholder_Text</key>
+		<string>Hãy nhập mật khẩu</string>
+		<key>EMKey_OldPassword_Placeholder_Text</key>
+		<string>Nhập mật khẩu cũ</string>
+		<key>EMKey_NewPassword_Placeholder_Text</key>
+		<string>Nhập mật khẩu mới</string>
+		<key>EMKey_NewPasswordAgain_Placeholder_Text</key>
+		<string>Pass mới</string>
+		<key>EMKey_VerifyCode_Placeholder_Text</key>
+		<string>Mã kiểm tra</string>
+		<key>EMKey_AccountNum_Miss_Alert_Text</key>
+		<string>Hãy nhập tài khoản.</string>
+		<key>EMKey_Email_Miss_Alert_Text</key>
+		<string>Hãy nhập Email kích hoạt.</string>
+		<key>EMKey_BindEmail_Miss_Alert_Text</key>
+		<string>Hãy nhập Email kích hoạt.</string>
+		<key>EMKey_Email_FormatError_Alert_Text</key>
+		<string>Hãy nhập định dạng mail chính xác.</string>
+		<key>EMKey_Password_Miss_Alert_Text</key>
+		<string>Hãy nhập mật khẩu.</string>
+		<key>EMKey_Password_FormatError_Alert_Text</key>
+		<string>Mật khẩu cần bao gồm chữ cái và số.</string>
+		<key>EMKey_Password_LengthError_Alert_Text</key>
+		<string>Độ dài yêu cầu 6-20 ký tự.</string>
+		<key>EMKey_Password_NewOldSame_Alert_Text</key>
+		<string>Mật khẩu cũ và mới giống nhau.</string>
+		<key>EMKey_Password_2EnterNoMatch_Alert_Text</key>
+		<string>Mật khẩu mới không giống nhau.</string>
+		<key>EMKey_VerifyCode_Miss_Alert_Text</key>
+		<string>Hãy nhập mã kiểm tra.</string>
+		<key>EMKey_Logout_Alert_Text</key>
+		<string>Bạn có muốn đăng xuất không?</string>
+		<key>EMKey_Https_NetworkError_Alert_Text</key>
+		<string>Không thể kết nối tới mạng.</string>
+		<key>EMKey_Https_ServerError_Alert_Text</key>
+		<string>Lỗi máy chủ, hãy liên lạc quản trị.</string>
+		<key>EMKey_SignInWithApple_Text</key>
+		<string>Sign in with Apple</string>
+		<key>EMKey_FBLoginError_Alert_Text</key>
+		<string>FB login lỗi.</string>
+		<key>EMKey_FBLoginCancel_Alert_Text</key>
+		<string>Hủy login FB.</string>
+		<key>EMKey_CannotMakePurchase_Alert_Text</key>
+		<string>Trên thiết bị không có app để tiến hành nạp.</string>
+		<key>EMKey_NoProduceCanPurchase_Alert_Text</key>
+		<string>Không có nội dung mua trên app.</string>
+		<key>EMKey_ProductInvalidOrNotExist_Pre_Text</key>
+		<string>ID:</string>
+		<key>EMKey_ProductInvalidOrNotExist_Suf_Text</key>
+		<string> không tồn tại hoặc lỗi.</string>
+		<key>EMKey_GetChOrderNoFail_Alert_Text</key>
+		<string>Tạo hóa đơn thất bại, mã hóa đơn trống!</string>
+		<key>EMKey_ChOrderNoIsNull_Alert_Text</key>
+		<string>Mã giao dịch là trống, kiểm tra Thất bại!</string>
+		<key>EMKey_AuthorizeCanceled_Alert_Text</key>
+		<string>Người dùng hủy quyền hạn.</string>
+		<key>EMKey_AuthorizeFailed_Alert_Text</key>
+		<string>Xin cấp quyền hạn thất bại.</string>
+		<key>EMKey_AuthorizInvalidResponse_Alert_Text</key>
+		<string>Xin cấp quyền hạn không tác dụng.</string>
+		<key>EMKey_AuthorizeNotHandled_Alert_Text</key>
+		<string>không thể xử lý cấp quyền hạn.</string>
+		<key>EMKey_AuthorizeUnknownError_Alert_Text</key>
+		<string>Xin cấp quyền hạn thất bại, Không rõ nguyên nhân.</string>
+		<key>EMKey_ConfigEmailAccount_Tips_Text</key>
+		<string>Bạn chưa thiết lập Mail, Có muốn đến thiết lập?</string>
+		<key>EMKey_SendFeedbackEmailSuccess_Tips_Text</key>
+		<string>Gửi thư phản ánh thành công.</string>
+		<key>EMKey_SendFeedbackEmailFailure_Tips_Text</key>
+		<string>Gửi thư phản ánh thất bại.</string>
+		<key>EMKey_Huiyuan</key>
+		<string>Hội viên</string>
+		<key>EMKey_personAcc</key>
+		<string>Tài khoản</string>
+		<key>EMKey_personCount</key>
+		<string>Tích điểm</string>
+		<key>EMKey_MineCount</key>
+		<string>Điểm của tôi</string>
+		<key>EMKey_chongCord</key>
+		<string>Lịch sử nạp</string>
+		<key>EMKey_chongTime</key>
+		<string>Thời gian nạp</string>
+		<key>EMKey_chongNum</key>
+		<string>Mã hoá đơn</string>
+		<key>EMKey_chongMon</key>
+		<string>Số tiền</string>
+		<key>EMKey_chongStatus</key>
+		<string>Trạng thái</string>
+		<key>EMKey_lastNew</key>
+		<string>Tin mới nhất</string>
+		<key>EMKey_signUp</key>
+		<string>Ký vô.</string>
+		<key>EMKey_hasSign</key>
+		<string>Ký vô.</string>
+		<key>EMKey_OffCount</key>
+		<string>Phiếu Ưu Đãi</string>
+		<key>EMKey_taskCenter</key>
+		<string>Trung tâm nhiệm vụ</string>
+		<key>EMKey_userAcc</key>
+		<string>Tài khoản của tôi</string>
+		<key>EMKey_canObtain</key>
+		<string>Được Nhận</string>
+		<key>EMKey_canUse</key>
+		<string>Dùng được</string>
+		<key>EMKey_nowObtain</key>
+		<string>Nhận</string>
+		<key>EMKey_nowUse</key>
+		<string>Dùng</string>
+		<key>EMKey_quietNotice</key>
+		<string>Đăng xuất tài khoản hiện tại?</string>
+		<key>EMKey_nowQuiet</key>
+		<string>Đăng xuất</string>
+		<key>EMKey_nowCancel</key>
+		<string>Hủy</string>
+		<key>EMKey_deskRecord</key>
+		<string>Lịch sử tiền nền tảng</string>
+		<key>EMKey_nowData</key>
+		<string>Ngày tháng</string>
+		<key>EMKey_nowMuch</key>
+		<string>Số tiền</string>
+		<key>EMKey_nowChan</key>
+		<string>Cổng</string>
+		<key>EMKey_nowGoen</key>
+		<string>Đi</string>
+		<key>EMKey_userDt</key>
+		<string>Cá nhân</string>
+		<key>EMKey_revisePsd</key>
+		<string>Đổi mật khẩu</string>
+		<key>EMKey_userUp</key>
+		<string>Nâng cấp TK</string>
+		<key>EMKey_tiMail</key>
+		<string>Email</string>
+		<key>EMKey_tiTel</key>
+		<string>Liên kết điện thoại</string>
+		<key>EMKey_pleaseTel</key>
+		<string>Hãy nhập số điện thoại</string>
+		<key>EMKey_pleaseVerify</key>
+		<string>Vui lòng nhập mã xác minh</string>
+		<key>EMKey_rightTel</key>
+		<string>Vui lòng nhập Điện thoại chính xác</string>
+		<key>EMKey_nowDist</key>
+		<string>84</string>
+		<key>EMKey_BindTel_Tips_Text</key>
+		<string>Điện thoại đã kích hoạt không thể thay đổi!</string>
+		<key>EMKey_WordTel</key>
+		<string>Số điện thoại</string>
+		<key>EMKey_expWord</key>
+		<string>EXP cấp</string>
+		<key>EMKey_tiePresentSuccess</key>
+		<string>Quà giám định thành công</string>
+		<key>EMKey_vipRoleObtainPresent</key>
+		<string>Nhận thành công</string>
+		<key>EMKey_countShip</key>
+		<string>Tiệm Điểm</string>
+		<key>EMKey_EmailFastLogin</key>
+		<string>Đăng nhập tài khoản</string>
+		<key>EMKey_SuperLogin</key>
+		<string>Đăng nhập nhanh</string>
+		<key>EMKey_AccDel</key>
+		<string>Xoá tài khoản</string>
+		<key>EMKey_isAccDel</key>
+		<string>Có xoá tài khoản không</string>
+		<key>EMKey_successAccDel</key>
+		<string>Xoá tài khoản thành công</string>
+		<key>EMKey_BindTelSuccess_Tips_Text</key>
+		<string>L.kết Đ.Thoại thành công</string>
+		<key>EMKey_couponFull</key>
+		<string>Đầy</string>
+		<key>EMKey_couponSong</key>
+		<string>Tặng</string>
+		<key>EMKey_couponReduce</key>
+		<string>Giảm</string>
+		<key>EMKey_NoticeName</key>
+		<string>Thông báo</string>
+		<key>EMKey_VMember</key>
+		<string>VIP</string>
+		<key>EMKey_MainIndex</key>
+		<string>Trang đầu</string>
+		<key>EMKey_AccSet</key>
+		<string>Tài Khoản Tôi</string>
+		<key>EMKey_lesRest</key>
+		<string>gói dư:</string>
+		<key>EMKey_lesEndT</key>
+		<string>Thời gian nhận:</string>
+		<key>EMKey_getles</key>
+		<string>Có xác định nhận?</string>
+	</dict>
+</dict>
+</plist>

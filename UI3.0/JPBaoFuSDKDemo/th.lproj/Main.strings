@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "支付1"; ObjectID = "1VO-2m-FNx"; */
+"1VO-2m-FNx.normalTitle" = "支付1";
+
+/* Class = "UIButton"; normalTitle = "广告"; ObjectID = "71u-Sq-LL2"; */
+"71u-Sq-LL2.normalTitle" = "广告";
+
+/* Class = "UIButton"; normalTitle = "退出登录"; ObjectID = "F2w-U5-nbU"; */
+"F2w-U5-nbU.normalTitle" = "退出登录";
+
+/* Class = "UIButton"; normalTitle = "初始化"; ObjectID = "GxU-la-yhS"; */
+"GxU-la-yhS.normalTitle" = "初始化";
+
+/* Class = "UIButton"; normalTitle = "显示登录界面"; ObjectID = "Jq5-7w-SjK"; */
+"Jq5-7w-SjK.normalTitle" = "显示登录界面";
+
+/* Class = "UIButton"; normalTitle = "设置语言"; ObjectID = "MY0-up-akA"; */
+"MY0-up-akA.normalTitle" = "设置语言";
+
+/* Class = "UIButton"; normalTitle = "进入游戏"; ObjectID = "U3P-tO-VOH"; */
+"U3P-tO-VOH.normalTitle" = "进入游戏";
+
+/* Class = "UIButton"; normalTitle = "更新角色等级"; ObjectID = "Xm0-Hc-c3K"; */
+"Xm0-Hc-c3K.normalTitle" = "更新角色等级";
+
+/* Class = "UIButton"; normalTitle = "创建角色"; ObjectID = "hoi-RF-1eV"; */
+"hoi-RF-1eV.normalTitle" = "创建角色";
+
+/* Class = "UILabel"; text = "结果显示："; ObjectID = "rBK-YY-lQG"; */
+"rBK-YY-lQG.text" = "结果显示：";
+
+/* Class = "UITextField"; placeholder = "输入更新的等级"; ObjectID = "shr-44-shc"; */
+"shr-44-shc.placeholder" = "输入更新的等级";
+
+/* Class = "UIButton"; normalTitle = "支付2"; ObjectID = "wEh-XS-qhS"; */
+"wEh-XS-qhS.normalTitle" = "支付2";
